@@ -1,0 +1,14 @@
+{
+  "name": "minimal-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^3.7.1"
+  }
+}

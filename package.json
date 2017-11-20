@@ -4,9 +4,9 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "webpack"
+    "build": "webpack"
   },
-  "author": "",
+  "author": "Tobias Buechel",
   "license": "MIT",
   "dependencies": {
     "webpack": "^3.7.1"
